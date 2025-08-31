@@ -1,0 +1,12 @@
+[package]
+name = "nsk-daw"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+x11 = "2.21.0"
+rodio = "0.21.1"
+meval="0.2.0"
+
+[build-dependencies]
+pkg-config = "0.3"
